@@ -1,6 +1,3 @@
-<<<<<<< HEAD
 Hello
 HI Git
-=======
 hiii
->>>>>>> aa8ab81813bec0cd9cc377ec7ef5a5ce3250e4a3
